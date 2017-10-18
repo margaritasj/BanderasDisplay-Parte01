@@ -4,6 +4,20 @@
 
 ![](https://fotos.subefotos.com/8157f58d3d2dcfcf689ec56554097266o.png)
 
+### A considerar ###
+
+> La propiedad "display" especifica el tipo de cuadro de representación utilizado para nuestro elemento div.
+
+> #### ___En practica___ ####
+>> 1. Selectores tipo elemento.
+>> 2. Selectores tipo clase.
+>> 3. Box Model
+>> 4. Display:block
+
+### Herramientas utilizadas ###
+- HTML5
+- CSS3
+
 ### Estructura de mis carpetas en GitHub ###
 ```Banderas-display
 1. assets
