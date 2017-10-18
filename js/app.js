@@ -1,0 +1,1 @@
+alert('Bienvenidos, en esta web se mostrara la primera parte de Banderas display.');
